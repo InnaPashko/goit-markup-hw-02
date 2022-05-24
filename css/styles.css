@@ -1,0 +1,145 @@
+
+body {
+font-family: 'Roboto', sans-serif;
+line-height: 1.5;
+color: #e057a0;
+}
+.list {
+list-style: none;
+}
+
+.header {
+position: absolute;
+width: 1600px;
+height: 80px;
+left: 0px;
+top: 0px;
+background: #8a2525;
+}
+.header-nav {
+
+}
+.header-logo {
+    position: absolute;
+    width: 145px;
+    height: 31px;
+    left: 215px;
+    top: 24px;
+    font-family: 'Raleway';
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 1.19;
+    letter-spacing: 0.03em;
+    color: #2196F3}
+.header-list {
+}
+.header-item {
+position: absolute;
+width: 77px;
+height: 16px;
+left: 552px;
+top: 32px;
+font-family: 'Roboto';
+font-weight: 500;
+font-size: 14px;
+line-height: 1.14;
+letter-spacing: 0.02em;
+color: #212121;
+}
+.header-link {
+}
+.header-mail {
+position: absolute;
+width: 135px;
+height: 16px;
+left: 1078px;
+top: 32px;
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 1.14;
+letter-spacing: 0.02em;
+color: #2196F3;
+}
+.header-tel {
+position: absolute;
+width: 122px;
+height: 16px;
+left: 1263px;
+top: 32px;
+font-family: 'Roboto';
+font-weight: 500;
+font-size: 14px;
+line-height: 1.14;
+letter-spacing: 0.02em;
+color: #757575;
+}
+.hero {
+}
+.heroh {
+position: absolute;
+width: 696px;
+height: 120px;
+left: 452px;
+top: 280px;
+font-family: 'Roboto';
+font-weight: 900;
+font-size: 44px;
+line-height: 1.36;
+text-align: center;
+letter-spacing: 0.06em;
+text-transform: uppercase;
+color: #FFFFFF;
+}
+.hero-btn {
+position: absolute;
+width: 136px;
+height: 30px;
+left: 732px;
+top: 440px;
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 1.87;
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: 0.06em;
+color: #FFFFFF;
+}
+.hero-text {
+}
+.hero-list {
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 14px;
+line-height: 1.14;
+letter-spacing: 0.03em;
+text-transform: uppercase;
+color: #212121;
+}
+.hero-link {
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 14px;
+line-height: 1.14;
+letter-spacing: 0.03em;
+text-transform: uppercase;
+color: #212121;
+}
+.about {
+}
+.about-list {
+}
+.about-item {
+}
+.team {
+}
+.team-list {
+}
+.team-item {
+}
