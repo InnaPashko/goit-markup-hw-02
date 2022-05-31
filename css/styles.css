@@ -83,9 +83,7 @@ background-color: #2F303A;
 font-weight: 700;
 font-size: 16px;
 line-height: 1.88;
-display: flex;
-align-items: center;
-text-align: center;
+font-family: inherit;
 letter-spacing: 0.06em;
 color: #FFFFFF;
 background: #2196F3;
@@ -112,7 +110,6 @@ color: #212121;
 }
 
 .specifics-par {
-font-weight: 400;
 font-size: 14px;
 line-height: 1.71;
 color: #757575;
@@ -160,7 +157,9 @@ background: #2F303A;;
 .footer-color {
 color: white;
 }
-
+.address {
+font-weight: normal;
+}
 .footer-address {
 font-size: 14px;
 line-height: 1.71;
@@ -179,6 +178,7 @@ display: none;
 
 .filtr {
 font-weight: 500;
+font-family: inherit;
 font-size: 16px;
 line-height: 1.26;
 text-align: center;
